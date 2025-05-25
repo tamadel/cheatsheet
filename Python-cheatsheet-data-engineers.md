@@ -4,6 +4,59 @@
 
 ---
 
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+- [Environment & Configuration](#environment--configuration)
+  - [Virtual Environments](#virtual-environments)
+  - [Dependency Management](#dependency-management)
+  - [Environment Variables](#environment-variables)
+  - [Configuration Patterns](#configuration-patterns)
+- [Data Ingestion](#data-ingestion)
+  - [CSV](#csv)
+  - [JSON](#json)
+  - [Parquet](#parquet)
+  - [HTTP API](#http-api)
+  - [Database (PostgreSQL)](#database-postgresql)
+- [Data Transformation](#data-transformation)
+  - [Pandas](#pandas)
+  - [PySpark DataFrame](#pyspark-dataframe)
+  - [Dask DataFrame](#dask-dataframe)
+  - [Validation with Pandera](#validation-with-pandera)
+- [Data Storage & Databases](#data-storage--databases)
+  - [Relational (SQL)](#relational-sql)
+  - [MongoDB](#mongodb)
+  - [Redis](#redis)
+  - [Data Warehouse (Redshift/Snowflake)](#data-warehouse-redshiftsnowflake)
+- [Geo-Data](#geo-data)
+  - [PostGIS Ingestion](#postgis-ingestion)
+  - [GeoPandas Example](#geopandas-example)
+  - [QGIS Integration](#qgis-integration)
+- [Cloud Storage & Services](#cloud-storage--services)
+  - [AWS S3](#aws-s3)
+  - [Google Cloud Storage](#google-cloud-storage)
+- [Messaging & Streaming](#messaging--streaming)
+  - [Apache Kafka](#apache-kafka)
+  - [AWS Kinesis](#aws-kinesis)
+- [Workflow Orchestration](#workflow-orchestration)
+  - [Apache Airflow](#apache-airflow)
+  - [Prefect](#prefect)
+- [Concurrency & Parallelism](#concurrency--parallelism)
+  - [Asyncio](#asyncio)
+  - [Thread & Process Pools](#thread--process-pools)
+- [Testing, Logging & Monitoring](#testing-logging--monitoring)
+  - [Logging](#logging)
+  - [Testing (pytest & coverage)](#testing-pytest--coverage)
+  - [Monitoring & Metrics](#monitoring--metrics)
+- [Performance & Profiling](#performance--profiling)
+  - [cProfile](#cprofile)
+  - [Line Profiler](#line-profiler)
+  - [Memory Profiler](#memory-profiler)
+- [Best Practices](#best-practices)
+- [One-Page Cheat Sheet Summary](#one-page-cheat-sheet-summary)
+
+---
+
 ## Prerequisites
 
 * **Python**: version **3.10+**
