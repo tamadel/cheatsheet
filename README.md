@@ -55,10 +55,4 @@ Please follow the existing style and structure.
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 *Generated on May 25, 2025.*
