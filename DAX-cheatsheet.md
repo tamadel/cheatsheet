@@ -1,3 +1,9 @@
+# DAX Unified Cheat Sheet
+
+A comprehensive quick-reference guide to essential DAX building blocks, combining conceptual depth with ready-to-run examples for efficient development and learning.
+
+---
+
 ## Summary of Functions
 
 | Category              | Function                                                        | Syntax                                                               |
