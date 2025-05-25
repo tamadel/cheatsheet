@@ -1,3 +1,9 @@
+# SQL Cheat Sheet
+
+A comprehensive and concise reference guide covering essential SQL syntax, advanced features, and best practices—complete with examples for querying, joins, window functions, pagination, performance tuning, and security enhancements.
+
+---
+
 ## Table of Contents
 
 1. [Data Querying Basics](#data-querying-basics)
