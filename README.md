@@ -12,7 +12,7 @@ A curated set of concise and practical cheat sheets to boost productivity and re
 | [SQL-cheatsheet.md](SQL-cheatsheet.md)                                                     | Comprehensive SQL syntax guide covering queries, joins, window functions, DML, DDL, and performance tips. fileciteturn0file3          |
 | [Python-cheatsheet-data-engineers.md](Python-cheatsheet-data-engineers.md)                 | End-to-end data engineering workflows in Python: ingestion, transformation, storage, and orchestration. fileciteturn0file1            |
 | [Python-cheatsheet-production-grade.md](Python-cheatsheet-production-grade.md)             | Best practices for production-quality Python: environment setup, testing, packaging, CI/CD, and performance. fileciteturn0file2       |
-| [ERP-Centric Data Engineering Roadmap](data-engineering/ERP-Data-Engineering-Roadmap.md)   | This document outlines a full implementation guide for designing, operating, and securing an ERP-driven data platform on Microsoft Azure.|   
+| [ERP-Centric Data Engineering Roadmap](ERP-Data-Engineering-Roadmap.md)                    | This document outlines a full implementation guide for designing, operating, and securing an ERP-driven data platform on Microsoft Azure.|   
                                                                                              | It includes Python and ADF examples, SQL Server optimization, AI automation, and Power BI delivery.                                      |   
 
 
